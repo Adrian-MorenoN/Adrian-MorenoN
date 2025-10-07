@@ -58,33 +58,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## 📊 Profile Statistics
-
- <div align=center>
-
-![](https://github-readme-stats.vercel.app/api?username=Adrian-MorenoN&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
-
-</div>
- 
- ### 💳 Github Profile Summary Card
- 
- <div align=center>
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adrian-MorenoN&theme=github_dark)
-  
- </div>
- 
-
-### 📊 Most Used Language
-
- <div align=center>
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Adrian-MorenoN&show_icons=true&locale=en&layout=compact&theme=radical)]()  
-  
- </div>
-
-
 ---
 
 ### 🔗 &nbsp;Contact Me
