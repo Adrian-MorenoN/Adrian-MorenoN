@@ -8,11 +8,8 @@
 </h3>
 
 <div align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F722&width=435&lines=Welcome+to+my+profile"/>
-  </a>
+   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg">
 </div>
-
 ---
 
 - 👨‍💻 I am a Full Stack Developer at NEORIS, designing and building scalable technological solutions that balance robust backend logic with seamless frontend experiences.
