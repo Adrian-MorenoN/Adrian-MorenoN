@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=200&lines=Welcome+to+my+profile"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=350&lines=Welcome+to+my+profile"/>
   </a>
 </div>
 
